@@ -1,3 +1,34 @@
-# Virtual-Tryon_
-# Virtual-Tryon_
-# my_virtual_tryon
+# TryYours - Virtual Try On site using HR-VITON.
+![teaser image](./figures/teaser.png)  
+> [KR presentation](./TryYours_presentation_kr.pdf)
+
+## Colab Demo
+You can simply try it using Colab:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MeerAli1472/virtual_tryon_demonstartion/blob/Main/run.ipynb)
+
+## Team Members
+
+|Ahmed Ali Khan|Shadab Khan|
+|--------------|------------|
+
+## Process Overview
+![process overview image](./figures/process_overview.png)
+
+## Code Running Environment
+> ## Run on colab
+
+## Installation
+see run file
+
+## References
+#### HR-VITON  
+https://github.com/sangyun884/HR-VITON  
+#### Posenet  
+https://github.com/rwightman/posenet-python  
+#### Graphonomy  
+https://github.com/Gaoyiminggithub/Graphonomy  
+#### Detectron2  
+https://github.com/facebookresearch/detectron2  
+#### Cloth Image Segmentation  
+https://github.com/ternaus/cloths_segmentation
+# virtual_tryon_demonstartion
