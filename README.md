@@ -4,7 +4,7 @@
 
 ## Colab Demo
 You can simply try it using Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MeerAli1472/virtual_tryon_demonstartion/blob/Main/run.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MeerAli1472/my_virtual_tryon/blob/Main/run.ipynb)
 
 ## Team Members
 
