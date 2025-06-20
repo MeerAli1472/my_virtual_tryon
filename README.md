@@ -1,6 +1,5 @@
 # TryYours - Virtual Try On site using HR-VITON.
 ![teaser image](./figures/teaser.png)  
-> [KR presentation](./TryYours_presentation_kr.pdf)
 
 ## Colab Demo
 You can simply try it using Colab:  
@@ -18,7 +17,7 @@ You can simply try it using Colab:
 > ## Run on colab
 
 ## Installation
-see run file
+check run file
 
 ## References
 #### HR-VITON  
